@@ -1,0 +1,6 @@
+[book]
+authors = ["Thiago Bezerra"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Centro de Informática UFPB"
