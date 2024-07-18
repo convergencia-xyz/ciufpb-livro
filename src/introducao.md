@@ -1,5 +1,7 @@
 # Introdução
 
+> Atenção: O conteúdo deste manual está em fase de desenvolvimento!
+
 Bem-vindos ao Manual do Estudante do Centro de Informática da UFPB! Este guia foi criado com o intuito de fornecer todas as informações necessárias para que você, estudante, possa navegar com sucesso pela sua jornada acadêmica. Aqui você encontrará detalhes sobre os cursos oferecidos, laboratórios de pesquisa, ferramentas gratuitas disponíveis, atividades extracurriculares, procedimentos administrativos e muito mais.
 
 Este manual serve como um recurso dinâmico e atualizado para ajudá-lo a entender melhor a estrutura e as oportunidades disponíveis no Centro de Informática. Navegue por este guia para descobrir como maximizar suas experiências e aproveitar ao máximo sua vida acadêmica.
