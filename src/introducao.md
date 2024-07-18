@@ -30,7 +30,4 @@ Este manual é feito para você, e sua contribuição é muito valiosa para nós
 
 Aproveite ao máximo sua jornada no Centro de Informática e lembre-se de que estamos aqui para ajudar você a alcançar seus objetivos.
 
----
-
-Se desejar voltar ao índice a qualquer momento, clique [aqui](SUMMARY.md).
 
