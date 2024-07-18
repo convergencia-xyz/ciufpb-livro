@@ -18,6 +18,7 @@
   - [Projetos](cursos/engenharia-da-computacao/projetos.md)
 
 # Vida Acadêmica
+- [Feras](vida-academica/matricula-feras.md)
 - [Matrícula](vida-academica/matricula.md)
 - [SIGAA](vida-academica/sigaa.md)
 - [Monitoria](vida-academica/monitoria.md)
