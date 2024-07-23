@@ -1,6 +1,7 @@
 # Summary
 
 [Introdução](introducao.md)
+[Outros Manuais](manuais.md)
 
 # O Centro de Informática
 - [Visão Geral](centro-de-informatica/visao-geral.md)
@@ -21,6 +22,7 @@
 - [Feras](vida-academica/matricula-feras.md)
 - [Matrícula](vida-academica/matricula.md)
 - [SIGAA](vida-academica/sigaa.md)
+- [E-mail acadêmico](vida-academica/email-academico.md)
 - [Monitoria](vida-academica/monitoria.md)
 - [Dispensa e Reaproveitamento](vida-academica/dispensa-e-reaproveitamento.md)
 - [Trancamento](vida-academica/trancamento.md)
@@ -42,6 +44,7 @@
 # Ferramentas e Recursos Gratuitos
 - [GitHub Student](ferramentas/github-student.md)
 - [JetBrains Student](ferramentas/jetbrains-student.md)
-- [GMail](ferramentas/gmail.md)
+- [GMail - GSuite](ferramentas/gmail.md)
+- [ChatGPT](ferramentas/chatgpt.md)
 
 [Conclusão](conclusao.md)
